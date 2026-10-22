@@ -1,7 +1,7 @@
 function Footer() {
     return(
         <footer className="footer">
-    © 2026 M&M Ice Creams
+    © 2026 Gelato 21
   </footer>
     );
 }
